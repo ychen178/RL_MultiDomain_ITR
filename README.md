@@ -4,4 +4,4 @@ For mental disorders, patients' underlying mental states are non-observed latent
 
 
 ### Reference
-Yuan Chen, Donglin Zeng, Yuanjia Wang (2020). Representation Learning for Integrating Multi-domain Outcomes to Optimize Individualized Treatments. In Advances in neural information processing systems. Accepted.
+Yuan Chen, Donglin Zeng, Yuanjia Wang (2020). Representation Learning for Integrating Multi-domain Outcomes to Optimize Individualized Treatments. In Advances in Neural Information Processing Systems (NeurIPS). Accepted.
